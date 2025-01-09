@@ -90,7 +90,7 @@ git clone https://github.com/dhirthacker7/music-player.git
 cd music-player
 ```
 
-2. Open the Application
+### 2. Open the Application
 Simply open the index.html file in any modern web browser.
 
 ## How to Use
